@@ -1,2 +1,5 @@
-# tugas-1-introduction
-NAMA : MUHAMMAD ALKAUTSAR TIRTA HAMJAYA
+# Pertemuan 1 - Introduction
+
+By:
++ Nama: Sasuke Uchiha
++ NIM: 2221100010

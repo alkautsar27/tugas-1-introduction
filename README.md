@@ -1,5 +1,5 @@
 # Pertemuan 1 - Introduction
 
 By:
-+ Nama: Sasuke Uchiha
-+ NIM: 2221100010
++ Nama: Muhammad Al Kautsar T.H
++ NIM: 201440002
